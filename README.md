@@ -16,23 +16,8 @@ Projeto desenvolvido para comparar os modelos YOLO Nano, Small, Medium, Large e 
 - YOLO Extra Large (x)
 
 ## Imagem utilizada
-![PRINCIPAL](PRINCIPAL_image.jpg)
+PRINCIPAL
 
-## Resultados
 
-### YOLO Nano
-![YOLO Nano](nano.jpg)
-
-### YOLO Small
-![YOLO Small](small.jpg)
-
-### YOLO Medium
-![YOLO Medium](medium.jpg)
-
-### YOLO Large
-![YOLO Large](large.jpg)
-
-### YOLO Extra Large
-![YOLO Extra Large](extra_large.jpg)
 ### YOLO Extra Large
 ![YOLO X](results/yolo_x.jpg)
